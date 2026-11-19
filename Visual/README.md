@@ -4,6 +4,12 @@
 
 `unusual.lua` applies unusual-style ambient effects to supported hero cosmetic items. It provides hero/item selection, in-game testing, and menu-preview controls.
 
+## 〢 🎥 Video Preview
+
+Watch Unusual Changer in action:
+
+[▶ Watch Unusual Changer Demo](./assets/2026-08-25%2000-18-48.mp4)
+
 ## 〢 ✨ Available Scripts
 
 | Script | Description | Documentation |
