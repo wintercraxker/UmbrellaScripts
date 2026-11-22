@@ -1,3 +1,5 @@
+<div align="center">
+  
 # UmbrellaScripts
 
 **A community-maintained collection of Lua scripts, utilities, and themes for the Umbrella Dota 2 client.**
@@ -6,7 +8,10 @@
 [![Dota 2](https://img.shields.io/badge/Dota%202-Umbrella-E07A33?style=for-the-badge)](#)
 [![Community Maintained](https://img.shields.io/badge/Community-Maintained-4CAF50?style=for-the-badge)](#)
 
+
 UmbrellaScripts provides a browsable collection of community-created Lua scripts and Umbrella interface themes. Each entry is documented to help users discover its purpose, menu options, source location, and installation requirements.
+
+</div>
 
 ## 〢 💭 What is UmbrellaScripts?
 
