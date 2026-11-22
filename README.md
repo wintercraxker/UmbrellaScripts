@@ -1,11 +1,10 @@
 <div align="center">
-  
 # UmbrellaScripts
 
 **A community-maintained collection of Lua scripts, utilities, and themes for the Umbrella Dota 2 client.**
 
 [![Lua](https://img.shields.io/badge/Lua-Scripts-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](#)
-[![Dota 2](https://img.shields.io/badge/Dota%202-Umbrella-E07A33?style=for-the-badge)](#)
+[![Dota 2](https://img.shields.io/badge/Dota%202-Umbrella-eb343a?style=for-the-badge)](#)
 [![Community Maintained](https://img.shields.io/badge/Community-Maintained-4CAF50?style=for-the-badge)](#)
 
 
